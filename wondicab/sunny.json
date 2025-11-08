@@ -1,14 +1,26 @@
 [
   {
-    "id": 1762606996108,
+    "id": 1762610742778,
     "word": "indeed",
     "pos": "adverb",
     "meaning": "的確，實在",
     "enMeaning": "really or certainly, often used to emphasize something",
-    "example": "Indeed, it could be the worst environmental disaster in Europe this century.\nEvidence suggests that errors may indeed be occurring.\nWe live in strange times indeed.\nMany people are very poor indeed.\n\"Is this your dog?\" \"It is indeed.\"",
-    "level": "new",
-    "nextReview": "2025-11-08",
-    "createdAt": "2025-11-08T13:03:16.109Z",
-    "reviewCount": 0
+    "example": "Indeed, it could be the worst environmental disaster in Europe this century.\nEvidence suggests that errors may indeed be occurring.\nWe live in strange times indeed.\nMany people are very poor indeed.\n\"Is this your dog?\" \"It is indeed.\"/\"Indeed it is.\"",
+    "level": "medium",
+    "nextReview": "2025-11-11",
+    "createdAt": "2025-11-08T14:05:42.778Z",
+    "reviewCount": 1
+  },
+  {
+    "id": 1762610852674,
+    "word": "numerous",
+    "pos": "adjective",
+    "meaning": "許多的，大量的",
+    "enMeaning": "many",
+    "example": "We have discussed these plans on numerous occasions.\nRetailers of this type, once rare, are now numerous.",
+    "level": "easy",
+    "nextReview": "2025-11-15",
+    "createdAt": "2025-11-08T14:07:32.674Z",
+    "reviewCount": 1
   }
 ]
