@@ -1,35 +1,14 @@
-{
-  "words": [
-    {
-      "id": 1762595253247,
-      "word": "numerous",
-      "pos": "adjective",
-      "meaning": "許多的，大量的",
-      "enMeaning": "many",
-      "example": "We have discussed these plans on numerous occasions.",
-      "level": "easy",
-      "nextReview": "2025-11-15",
-      "createdAt": "2025-11-08T09:47:33.247Z",
-      "reviewCount": 1
-    },
-    {
-      "id": 1762608860996,
-      "word": "indeed",
-      "pos": "adverb",
-      "meaning": "的確，實在",
-      "enMeaning": "really or certainly, often used to emphasize something",
-      "example": "Indeed, it could be the worst environmental disaster in Europe this century.\nEvidence suggests that errors may indeed be occurring.\nWe live in strange times indeed.\nMany people are very poor indeed.\n\"Is this your dog?\" \"It is indeed.\"",
-      "level": "medium",
-      "nextReview": "2025-11-11",
-      "createdAt": "2025-11-08T13:34:20.996Z",
-      "reviewCount": 1
-    }
-  ],
-  "notebooks": [
-    {
-      "id": "default",
-      "name": "默認單詞本",
-      "createdAt": "2025-11-08T13:46:24.482Z"
-    }
-  ]
-}
+[
+  {
+    "id": 1762595253247,
+    "word": "numerous",
+    "pos": "adjective",
+    "meaning": "許多的，大量的",
+    "enMeaning": "many",
+    "example": "We have discussed these plans on numerous occasions.",
+    "level": "easy",
+    "nextReview": "2025-11-15",
+    "createdAt": "2025-11-08T09:47:33.247Z",
+    "reviewCount": 1
+  }
+]
