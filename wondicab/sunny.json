@@ -34,5 +34,17 @@
     "nextReview": "2025-11-10",
     "createdAt": "2025-11-09T02:23:09.667Z",
     "reviewCount": 1
+  },
+  {
+    "id": 1762673907334,
+    "word": "brilliant",
+    "pos": "adjective",
+    "meaning": "頗有才氣的，聰穎的;技藝高超的",
+    "enMeaning": "extremely intelligent or skilled",
+    "example": "Her mother was a brilliant scientist.\nHe gave a brilliant performance.\nThe idea was quite brilliant.\nShe seemed to have a brilliant career ahead of her (= was likely to be extremely successful).\nThe sky was a brilliant, cloudless blue.",
+    "level": "medium",
+    "nextReview": "2025-11-12",
+    "createdAt": "2025-11-09T07:38:27.334Z",
+    "reviewCount": 1
   }
 ]
