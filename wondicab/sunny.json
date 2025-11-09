@@ -22,5 +22,17 @@
     "nextReview": "2025-11-15",
     "createdAt": "2025-11-08T14:07:32.674Z",
     "reviewCount": 1
+  },
+  {
+    "id": 1762654989666,
+    "word": "innovate",
+    "pos": "verb",
+    "meaning": "改革;創新",
+    "enMeaning": "to introduce changes and new ideas",
+    "example": "The fashion industry is always desperate to innovate.",
+    "level": "hard",
+    "nextReview": "2025-11-10",
+    "createdAt": "2025-11-09T02:23:09.667Z",
+    "reviewCount": 1
   }
 ]
