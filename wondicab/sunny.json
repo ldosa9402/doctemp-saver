@@ -70,5 +70,29 @@
     "nextReview": "2025-11-13",
     "createdAt": "2025-11-10T10:40:54.457Z",
     "reviewCount": 1
+  },
+  {
+    "id": 1762771900178,
+    "word": "approximately",
+    "pos": "adverb",
+    "meaning": "大約，大概，左右",
+    "enMeaning": "close to a particular number or time although not exactly that number or time",
+    "example": "The job will take approximately three weeks, and cost approximately £1,000.",
+    "level": "medium",
+    "nextReview": "2025-11-13",
+    "createdAt": "2025-11-10T10:51:40.178Z",
+    "reviewCount": 1
+  },
+  {
+    "id": 1762772170523,
+    "word": "aware",
+    "pos": "adjective",
+    "meaning": "意識到的;明白的;知道的",
+    "enMeaning": "knowing that something exists, or having knowledge or experience of a particular thing",
+    "example": "I wasn't even aware that he was ill.\nWere you aware of the risks at the time?\nShe was well (= very) aware that he was married.\n\"Has Claude paid the phone bill?\" \"Not as far as I'm aware.\" (= I don't think so)\nI suddenly became aware of (= started to notice) him looking at me.",
+    "level": "hard",
+    "nextReview": "2025-11-11",
+    "createdAt": "2025-11-10T10:56:10.523Z",
+    "reviewCount": 1
   }
 ]
