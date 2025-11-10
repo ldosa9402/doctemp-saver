@@ -31,9 +31,9 @@
     "enMeaning": "to introduce changes and new ideas",
     "example": "The fashion industry is always desperate to innovate.",
     "level": "hard",
-    "nextReview": "2025-11-10",
+    "nextReview": "2025-11-11",
     "createdAt": "2025-11-09T02:23:09.667Z",
-    "reviewCount": 1
+    "reviewCount": 2
   },
   {
     "id": 1762673907334,
@@ -45,6 +45,30 @@
     "level": "medium",
     "nextReview": "2025-11-12",
     "createdAt": "2025-11-09T07:38:27.334Z",
+    "reviewCount": 1
+  },
+  {
+    "id": 1762770952122,
+    "word": "severe",
+    "pos": "adjective",
+    "meaning": "非常嚴重的；劇烈的；慘重的",
+    "enMeaning": "causing very great pain, difficulty, worry, damage, etc.; very serious",
+    "example": "a severe chest infection/leg injury/toothache\nThis is a school for children with severe learning difficulties.\nIn parts of Africa there is a severe food/water shortage.\nThere is expected to be a severe frost tonight.\nSevere cutbacks in public spending have been announced.",
+    "level": "medium",
+    "nextReview": "2025-11-13",
+    "createdAt": "2025-11-10T10:35:52.122Z",
+    "reviewCount": 1
+  },
+  {
+    "id": 1762771254457,
+    "word": "essential",
+    "pos": "adjective",
+    "meaning": "必要的，必不可少的",
+    "enMeaning": "necessary or needed",
+    "example": "Government support will be essential if the project is to succeed.\nThere is essential work to be done before the building can be re-occupied.\nWater is essential for/to living things.\nIt is essential (that) our prices remain competitive.\nFor the experiment to be valid, it is essential to record the data accurately.",
+    "level": "medium",
+    "nextReview": "2025-11-13",
+    "createdAt": "2025-11-10T10:40:54.457Z",
     "reviewCount": 1
   }
 ]
