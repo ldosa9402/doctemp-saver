@@ -94,5 +94,17 @@
     "nextReview": "2025-11-12",
     "createdAt": "2025-11-10T10:56:10.523Z",
     "reviewCount": 2
+  },
+  {
+    "id": 1762859264228,
+    "word": "against",
+    "pos": "preposition",
+    "meaning": "反對;與…相反",
+    "enMeaning": "disagreeing with a plan or activity",
+    "example": "She spoke against the decision to close the college.\n50 people voted against the new proposal.\nI'm very much against the idea that it is the woman's job to bring up the child.\nGermany are playing against Brazil in the cup final tonight.\nShe's always rebelled against authority.",
+    "level": "hard",
+    "nextReview": "2025-11-12",
+    "createdAt": "2025-11-11T11:07:44.228Z",
+    "reviewCount": 1
   }
 ]
