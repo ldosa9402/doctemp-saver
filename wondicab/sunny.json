@@ -118,5 +118,17 @@
     "nextReview": "2025-11-12",
     "createdAt": "2025-11-11T11:53:00.643Z",
     "reviewCount": 1
+  },
+  {
+    "id": 1762862385041,
+    "word": "state",
+    "pos": "noun",
+    "meaning": "狀態；情形；狀況",
+    "enMeaning": "a condition or way of being that exists at a particular time",
+    "example": "The building was in a state of disrepair.\nShe was found wandering in a confused state (of mind).\nGive me the keys - you're not in a state to drive.\nAfter the accident I was in a state of shock.\nI came home to an unhappy state of affairs (= situation).",
+    "level": "hard",
+    "nextReview": "2025-11-12",
+    "createdAt": "2025-11-11T11:59:45.041Z",
+    "reviewCount": 1
   }
 ]
