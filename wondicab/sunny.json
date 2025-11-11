@@ -106,5 +106,17 @@
     "nextReview": "2025-11-12",
     "createdAt": "2025-11-11T11:07:44.228Z",
     "reviewCount": 1
+  },
+  {
+    "id": 1762861980642,
+    "word": "eliminate",
+    "pos": "verb",
+    "meaning": "排除;消除;清除",
+    "enMeaning": "to remove or take away someone or something",
+    "example": "A move towards healthy eating could help eliminate heart disease.\nWe eliminated the possibility that it could have been an accident.\nThe police eliminated him from their enquiries.\nHe was eliminated in the third round of the competition.\nA police officer was accused of helping a drug gang eliminate rivals.",
+    "level": "hard",
+    "nextReview": "2025-11-12",
+    "createdAt": "2025-11-11T11:53:00.643Z",
+    "reviewCount": 1
   }
 ]
