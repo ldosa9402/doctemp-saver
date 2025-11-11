@@ -130,5 +130,17 @@
     "nextReview": "2025-11-12",
     "createdAt": "2025-11-11T11:59:45.041Z",
     "reviewCount": 1
+  },
+  {
+    "id": 1762903201649,
+    "word": "atmosphere",
+    "pos": "noun",
+    "meaning": "氣氛；環境",
+    "enMeaning": "the character, feeling, or mood of a place or situation",
+    "example": "There's a very relaxed atmosphere in our office.\nThere has been an atmosphere of gloom in the factory since it was announced that it would be closing.",
+    "level": "hard",
+    "nextReview": "2025-11-12",
+    "createdAt": "2025-11-11T23:20:01.650Z",
+    "reviewCount": 1
   }
 ]
