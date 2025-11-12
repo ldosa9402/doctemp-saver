@@ -190,5 +190,41 @@
     "nextReview": "2025-11-15",
     "createdAt": "2025-11-12T15:18:40.119Z",
     "reviewCount": 1
+  },
+  {
+    "id": 1762961117431,
+    "word": "operation",
+    "pos": "noun",
+    "meaning": "運作，實施，工作",
+    "enMeaning": "the fact of operating or being active",
+    "example": "There are several reactors of the type in operation (= working) at the moment.\nWe expect the new system for assessing claims to come into operation (= start working) early next year.\nLess profitable business operations will have difficulty in finding financial support.\na military/peacekeeping operation.\nFollowing the earthquake, a large-scale rescue operation was launched.",
+    "level": "hard",
+    "nextReview": "2025-11-13",
+    "createdAt": "2025-11-12T15:25:17.431Z",
+    "reviewCount": 1
+  },
+  {
+    "id": 1762961601478,
+    "word": "implement",
+    "pos": "verb",
+    "meaning": "實施，貫徹",
+    "enMeaning": "to start using a plan or system",
+    "example": "The changes to the national health system will be implemented next year.\ngarden/household/agricultural implements\nShopkeepers are not supposed to sell knives and other sharp implements to children.",
+    "level": "hard",
+    "nextReview": "2025-11-13",
+    "createdAt": "2025-11-12T15:33:21.479Z",
+    "reviewCount": 1
+  },
+  {
+    "id": 1762961950863,
+    "word": "incentive",
+    "pos": "noun",
+    "meaning": "激勵，刺激，鼓勵",
+    "enMeaning": "something that encourages a person to do something",
+    "example": "Tax incentives have been very effective in encouraging people to save and invest more of their income.\nThere is little incentive for people to leave their cars at home when public transport remains so expensive.\nBonus payments provide an incentive to work harder.",
+    "level": "medium",
+    "nextReview": "2025-11-15",
+    "createdAt": "2025-11-12T15:39:10.863Z",
+    "reviewCount": 1
   }
 ]
