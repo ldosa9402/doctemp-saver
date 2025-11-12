@@ -142,5 +142,41 @@
     "nextReview": "2025-11-15",
     "createdAt": "2025-11-11T23:20:01.650Z",
     "reviewCount": 2
+  },
+  {
+    "id": 1762949778595,
+    "word": "reluctant",
+    "pos": "adjective",
+    "meaning": "勉強的;不情願的",
+    "enMeaning": "not willing to do something and therefore slow to do it",
+    "example": "I was having such a good time I was reluctant to leave.\nMany parents feel reluctant to talk openly with their children.\nShe persuaded her reluctant husband to take a trip to Florida with her.",
+    "level": "hard",
+    "nextReview": "2025-11-13",
+    "createdAt": "2025-11-12T12:16:18.595Z",
+    "reviewCount": 1
+  },
+  {
+    "id": 1762949838436,
+    "word": "hypothetical",
+    "pos": "adjective",
+    "meaning": "假定的，假設的",
+    "enMeaning": "imagined or suggested but not necessarily real or true",
+    "example": "a hypothetical example/situation\nThis is all very hypothetical but supposing Jackie got the job, how would that affect you?",
+    "level": "hard",
+    "nextReview": "2025-11-13",
+    "createdAt": "2025-11-12T12:17:18.436Z",
+    "reviewCount": 1
+  },
+  {
+    "id": 1762950967831,
+    "word": "separate",
+    "pos": "adjective",
+    "meaning": "各自的；單獨的，不同的",
+    "enMeaning": "existing or happening independently or in a different physical space",
+    "example": "The art department and the music department are in two separate buildings.\nI try to keep meat separate from other food in the fridge.\nI have my public life and my private life, and as far as possible I try to keep them separate.\nThree youths have been shot and killed in separate incidents this month.\nThe north and south of the country are separated by a mountain range.",
+    "level": "hard",
+    "nextReview": "2025-11-13",
+    "createdAt": "2025-11-12T12:36:07.831Z",
+    "reviewCount": 1
   }
 ]
