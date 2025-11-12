@@ -178,5 +178,17 @@
     "nextReview": "2025-11-13",
     "createdAt": "2025-11-12T12:36:07.831Z",
     "reviewCount": 1
+  },
+  {
+    "id": 1762960720119,
+    "word": "equipment",
+    "pos": "noun",
+    "meaning": "設備;器材;用具",
+    "enMeaning": "the set of necessary tools, clothing, etc. for a particular purpose",
+    "example": "office/camping/kitchen equipment\nelectrical equipment",
+    "level": "medium",
+    "nextReview": "2025-11-15",
+    "createdAt": "2025-11-12T15:18:40.119Z",
+    "reviewCount": 1
   }
 ]
