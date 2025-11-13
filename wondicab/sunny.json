@@ -226,5 +226,41 @@
     "nextReview": "2025-11-15",
     "createdAt": "2025-11-12T15:39:10.863Z",
     "reviewCount": 1
+  },
+  {
+    "id": 1763003325807,
+    "word": "ineluctable",
+    "pos": "adjective",
+    "meaning": "無法躲避的，無法避免的",
+    "enMeaning": "impossible to avoid",
+    "example": "his ineluctable fate",
+    "level": "new",
+    "nextReview": "2025-11-13",
+    "createdAt": "2025-11-13T03:08:45.807Z",
+    "reviewCount": 0
+  },
+  {
+    "id": 1763003633483,
+    "word": "perpetual",
+    "pos": "adjective",
+    "meaning": "永久的，永恆的;長期的",
+    "enMeaning": "continuing for ever in the same way",
+    "example": "They lived in perpetual fear of being discovered.\nHe has hard, cold eyes and his mouth is set in a perpetual sneer.\na perpetual student\nperpetual vandalism",
+    "level": "new",
+    "nextReview": "2025-11-13",
+    "createdAt": "2025-11-13T03:13:53.483Z",
+    "reviewCount": 0
+  },
+  {
+    "id": 1763003677925,
+    "word": "gregarious",
+    "pos": "adjective",
+    "meaning": "（人）愛交際的，不喜獨處的",
+    "enMeaning": "(of people) liking to be with other people",
+    "example": "Emma's a gregarious, outgoing sort of person.",
+    "level": "new",
+    "nextReview": "2025-11-13",
+    "createdAt": "2025-11-13T03:14:37.925Z",
+    "reviewCount": 0
   }
 ]
