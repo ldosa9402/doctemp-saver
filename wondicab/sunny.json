@@ -30,10 +30,10 @@
     "meaning": "改革;創新",
     "enMeaning": "to introduce changes and new ideas",
     "example": "The fashion industry is always desperate to innovate.",
-    "level": "medium",
-    "nextReview": "2025-11-14",
+    "level": "easy",
+    "nextReview": "2025-11-21",
     "createdAt": "2025-11-09T02:23:09.667Z",
-    "reviewCount": 3
+    "reviewCount": 4
   },
   {
     "id": 1762673907334,
@@ -262,5 +262,17 @@
     "nextReview": "2025-11-14",
     "createdAt": "2025-11-13T03:14:37.925Z",
     "reviewCount": 1
+  },
+  {
+    "id": 1763109995175,
+    "word": "annual",
+    "pos": "adjective",
+    "meaning": "一年一度的;每年的",
+    "enMeaning": "happening once every year",
+    "example": "an annual event/visit/holiday\nCompanies publish annual reports to inform the public about the previous year's activities.\nannual income/salary/profit",
+    "level": "new",
+    "nextReview": "2025-11-14",
+    "createdAt": "2025-11-14T08:46:35.175Z",
+    "reviewCount": 0
   }
 ]
