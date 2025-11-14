@@ -274,5 +274,17 @@
     "nextReview": "2025-11-15",
     "createdAt": "2025-11-14T08:46:35.175Z",
     "reviewCount": 1
+  },
+  {
+    "id": 1763117507761,
+    "word": "concern",
+    "pos": "verb",
+    "meaning": "使擔憂；使掛念；使焦慮",
+    "enMeaning": "to cause worry to someone",
+    "example": "The state of my father's health concerns us greatly.\nIt concerns me that he hasn't been in contact.\nMatters of pollution and the environment concern us all.\nWhat I have to say to Amy doesn't concern you.\nThe documentary concerns a woman who goes to China as a missionary.",
+    "level": "hard",
+    "nextReview": "2025-11-15",
+    "createdAt": "2025-11-14T10:51:47.761Z",
+    "reviewCount": 1
   }
 ]
