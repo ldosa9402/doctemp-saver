@@ -19,9 +19,9 @@
     "enMeaning": "many",
     "example": "We have discussed these plans on numerous occasions.\nRetailers of this type, once rare, are now numerous.",
     "level": "easy",
-    "nextReview": "2025-11-15",
+    "nextReview": "2025-11-22",
     "createdAt": "2025-11-08T14:07:32.674Z",
-    "reviewCount": 1
+    "reviewCount": 2
   },
   {
     "id": 1762654989666,
@@ -43,9 +43,9 @@
     "enMeaning": "extremely intelligent or skilled",
     "example": "Her mother was a brilliant scientist.\nHe gave a brilliant performance.\nThe idea was quite brilliant.\nShe seemed to have a brilliant career ahead of her (= was likely to be extremely successful).\nThe sky was a brilliant, cloudless blue.",
     "level": "medium",
-    "nextReview": "2025-11-15",
+    "nextReview": "2025-11-18",
     "createdAt": "2025-11-09T07:38:27.334Z",
-    "reviewCount": 2
+    "reviewCount": 3
   },
   {
     "id": 1762770952122,
@@ -90,10 +90,10 @@
     "meaning": "意識到的;明白的;知道的",
     "enMeaning": "knowing that something exists, or having knowledge or experience of a particular thing",
     "example": "I wasn't even aware that he was ill.\nWere you aware of the risks at the time?\nShe was well (= very) aware that he was married.\n\"Has Claude paid the phone bill?\" \"Not as far as I'm aware.\" (= I don't think so)\nI suddenly became aware of (= started to notice) him looking at me.",
-    "level": "medium",
-    "nextReview": "2025-11-15",
+    "level": "easy",
+    "nextReview": "2025-11-22",
     "createdAt": "2025-11-10T10:56:10.523Z",
-    "reviewCount": 3
+    "reviewCount": 4
   },
   {
     "id": 1762859264228,
@@ -103,9 +103,9 @@
     "enMeaning": "disagreeing with a plan or activity",
     "example": "She spoke against the decision to close the college.\n50 people voted against the new proposal.\nI'm very much against the idea that it is the woman's job to bring up the child.\nGermany are playing against Brazil in the cup final tonight.\nShe's always rebelled against authority.",
     "level": "medium",
-    "nextReview": "2025-11-15",
+    "nextReview": "2025-11-18",
     "createdAt": "2025-11-11T11:07:44.228Z",
-    "reviewCount": 2
+    "reviewCount": 3
   },
   {
     "id": 1762861980642,
@@ -114,10 +114,10 @@
     "meaning": "排除;消除;清除",
     "enMeaning": "to remove or take away someone or something",
     "example": "A move towards healthy eating could help eliminate heart disease.\nWe eliminated the possibility that it could have been an accident.\nThe police eliminated him from their enquiries.\nHe was eliminated in the third round of the competition.\nA police officer was accused of helping a drug gang eliminate rivals.",
-    "level": "medium",
-    "nextReview": "2025-11-15",
+    "level": "easy",
+    "nextReview": "2025-11-22",
     "createdAt": "2025-11-11T11:53:00.643Z",
-    "reviewCount": 2
+    "reviewCount": 3
   },
   {
     "id": 1762862385041,
@@ -126,10 +126,10 @@
     "meaning": "狀態；情形；狀況",
     "enMeaning": "a condition or way of being that exists at a particular time",
     "example": "The building was in a state of disrepair.\nShe was found wandering in a confused state (of mind).\nGive me the keys - you're not in a state to drive.\nAfter the accident I was in a state of shock.\nI came home to an unhappy state of affairs (= situation).",
-    "level": "medium",
-    "nextReview": "2025-11-15",
+    "level": "easy",
+    "nextReview": "2025-11-22",
     "createdAt": "2025-11-11T11:59:45.041Z",
-    "reviewCount": 2
+    "reviewCount": 3
   },
   {
     "id": 1762903201649,
@@ -139,9 +139,9 @@
     "enMeaning": "the character, feeling, or mood of a place or situation",
     "example": "There's a very relaxed atmosphere in our office.\nThere has been an atmosphere of gloom in the factory since it was announced that it would be closing.",
     "level": "medium",
-    "nextReview": "2025-11-15",
+    "nextReview": "2025-11-18",
     "createdAt": "2025-11-11T23:20:01.650Z",
-    "reviewCount": 2
+    "reviewCount": 3
   },
   {
     "id": 1762949778595,
@@ -186,10 +186,10 @@
     "meaning": "設備;器材;用具",
     "enMeaning": "the set of necessary tools, clothing, etc. for a particular purpose",
     "example": "office/camping/kitchen equipment\nelectrical equipment",
-    "level": "medium",
-    "nextReview": "2025-11-15",
+    "level": "hard",
+    "nextReview": "2025-11-16",
     "createdAt": "2025-11-12T15:18:40.119Z",
-    "reviewCount": 1
+    "reviewCount": 2
   },
   {
     "id": 1762961117431,
@@ -198,10 +198,10 @@
     "meaning": "運作，實施，工作",
     "enMeaning": "the fact of operating or being active",
     "example": "There are several reactors of the type in operation (= working) at the moment.\nWe expect the new system for assessing claims to come into operation (= start working) early next year.\nLess profitable business operations will have difficulty in finding financial support.\na military/peacekeeping operation.\nFollowing the earthquake, a large-scale rescue operation was launched.",
-    "level": "hard",
-    "nextReview": "2025-11-15",
+    "level": "medium",
+    "nextReview": "2025-11-18",
     "createdAt": "2025-11-12T15:25:17.431Z",
-    "reviewCount": 3
+    "reviewCount": 4
   },
   {
     "id": 1762961601478,
@@ -223,9 +223,9 @@
     "enMeaning": "something that encourages a person to do something",
     "example": "Tax incentives have been very effective in encouraging people to save and invest more of their income.\nThere is little incentive for people to leave their cars at home when public transport remains so expensive.\nBonus payments provide an incentive to work harder.",
     "level": "medium",
-    "nextReview": "2025-11-15",
+    "nextReview": "2025-11-18",
     "createdAt": "2025-11-12T15:39:10.863Z",
-    "reviewCount": 1
+    "reviewCount": 2
   },
   {
     "id": 1763003325807,
@@ -234,10 +234,10 @@
     "meaning": "無法躲避的，無法避免的",
     "enMeaning": "impossible to avoid",
     "example": "his ineluctable fate",
-    "level": "hard",
-    "nextReview": "2025-11-15",
+    "level": "medium",
+    "nextReview": "2025-11-18",
     "createdAt": "2025-11-13T03:08:45.807Z",
-    "reviewCount": 2
+    "reviewCount": 3
   },
   {
     "id": 1763003633483,
@@ -247,9 +247,9 @@
     "enMeaning": "continuing for ever in the same way",
     "example": "They lived in perpetual fear of being discovered.\nHe has hard, cold eyes and his mouth is set in a perpetual sneer.\na perpetual student\nperpetual vandalism",
     "level": "hard",
-    "nextReview": "2025-11-15",
+    "nextReview": "2025-11-16",
     "createdAt": "2025-11-13T03:13:53.483Z",
-    "reviewCount": 2
+    "reviewCount": 3
   },
   {
     "id": 1763003677925,
@@ -259,9 +259,9 @@
     "enMeaning": "(of people) liking to be with other people",
     "example": "Emma's a gregarious, outgoing sort of person.",
     "level": "hard",
-    "nextReview": "2025-11-15",
+    "nextReview": "2025-11-16",
     "createdAt": "2025-11-13T03:14:37.925Z",
-    "reviewCount": 2
+    "reviewCount": 3
   },
   {
     "id": 1763109995175,
@@ -270,10 +270,10 @@
     "meaning": "一年一度的;每年的",
     "enMeaning": "happening once every year",
     "example": "an annual event/visit/holiday\nCompanies publish annual reports to inform the public about the previous year's activities.\nannual income/salary/profit",
-    "level": "hard",
-    "nextReview": "2025-11-15",
+    "level": "medium",
+    "nextReview": "2025-11-18",
     "createdAt": "2025-11-14T08:46:35.175Z",
-    "reviewCount": 1
+    "reviewCount": 2
   },
   {
     "id": 1763117507761,
@@ -283,8 +283,8 @@
     "enMeaning": "to cause worry to someone",
     "example": "The state of my father's health concerns us greatly.\nIt concerns me that he hasn't been in contact.\nMatters of pollution and the environment concern us all.\nWhat I have to say to Amy doesn't concern you.\nThe documentary concerns a woman who goes to China as a missionary.",
     "level": "hard",
-    "nextReview": "2025-11-15",
+    "nextReview": "2025-11-16",
     "createdAt": "2025-11-14T10:51:47.761Z",
-    "reviewCount": 1
+    "reviewCount": 2
   }
 ]
