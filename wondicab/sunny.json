@@ -298,5 +298,17 @@
     "nextReview": "2025-11-20",
     "createdAt": "2025-11-19T06:46:43.086Z",
     "reviewCount": 1
+  },
+  {
+    "id": 1763538728036,
+    "word": "deteriorate",
+    "pos": "verb",
+    "meaning": "惡化，變壞",
+    "enMeaning": "to become worse",
+    "example": "She was taken into hospital last week when her condition suddenly deteriorated.\nThe political situation in the region has deteriorated rapidly.",
+    "level": "hard",
+    "nextReview": "2025-11-20",
+    "createdAt": "2025-11-19T07:52:08.036Z",
+    "reviewCount": 1
   }
 ]
