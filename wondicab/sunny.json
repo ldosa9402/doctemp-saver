@@ -187,9 +187,9 @@
     "enMeaning": "the set of necessary tools, clothing, etc. for a particular purpose",
     "example": "office/camping/kitchen equipment\nelectrical equipment",
     "level": "medium",
-    "nextReview": "2025-11-19",
+    "nextReview": "2025-11-22",
     "createdAt": "2025-11-12T15:18:40.119Z",
-    "reviewCount": 3
+    "reviewCount": 4
   },
   {
     "id": 1762961117431,
@@ -286,5 +286,17 @@
     "nextReview": "2025-11-20",
     "createdAt": "2025-11-14T10:51:47.761Z",
     "reviewCount": 4
+  },
+  {
+    "id": 1763534803086,
+    "word": "ubiquity",
+    "pos": "noun",
+    "meaning": "（人或物）無處不在，普遍存在",
+    "enMeaning": "the fact that something or someone seems to be everywhere",
+    "example": "the ubiquity of fast-food outlets",
+    "level": "hard",
+    "nextReview": "2025-11-20",
+    "createdAt": "2025-11-19T06:46:43.086Z",
+    "reviewCount": 1
   }
 ]
