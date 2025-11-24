@@ -346,5 +346,41 @@
     "nextReview": "2025-11-25",
     "createdAt": "2025-11-24T13:22:57.660Z",
     "reviewCount": 1
+  },
+  {
+    "id": 1763990981029,
+    "word": "leisure",
+    "pos": "noun",
+    "meaning": "空閒，閒暇，休閒",
+    "enMeaning": "the time when you are not working or doing other duties",
+    "example": "leisure activities\nMost people only have a limited amount of leisure time.\nThe town lacks leisure facilities such as a swimming pool or squash courts.",
+    "level": "hard",
+    "nextReview": "2025-11-25",
+    "createdAt": "2025-11-24T13:29:41.029Z",
+    "reviewCount": 1
+  },
+  {
+    "id": 1763991103877,
+    "word": "hectic",
+    "pos": "adjective",
+    "meaning": "繁忙的，忙碌的",
+    "enMeaning": "full of activity, or very busy and fast",
+    "example": "a hectic schedule\nThe area has become a haven for people tired of the hectic pace of city life.",
+    "level": "hard",
+    "nextReview": "2025-11-25",
+    "createdAt": "2025-11-24T13:31:43.877Z",
+    "reviewCount": 1
+  },
+  {
+    "id": 1763991286149,
+    "word": "briefly",
+    "pos": "adverb",
+    "meaning": "短暫地;簡短地  / 簡言之，一言以蔽之",
+    "enMeaning": "for a short time / using few words or without giving a lot of details",
+    "example": "We chatted briefly about the weather.\nBriefly, the company needs to cut its expenditure.",
+    "level": "hard",
+    "nextReview": "2025-11-25",
+    "createdAt": "2025-11-24T13:34:46.149Z",
+    "reviewCount": 1
   }
 ]
