@@ -322,5 +322,29 @@
     "nextReview": "2025-11-27",
     "createdAt": "2025-11-23T04:38:46.645Z",
     "reviewCount": 2
+  },
+  {
+    "id": 1763990452939,
+    "word": "ratchet something up/down",
+    "pos": "phrasal verb",
+    "meaning": "逐步增加／減少",
+    "enMeaning": "to increase/reduce something over a period of time",
+    "example": "The debate should ratchet up awareness of the problem among members of the general public.\nThe government was accused of ratcheting up pressure on the health services.\nCosts have been ratcheted down by as much as 50 percent since 1999.",
+    "level": "hard",
+    "nextReview": "2025-11-25",
+    "createdAt": "2025-11-24T13:20:52.939Z",
+    "reviewCount": 1
+  },
+  {
+    "id": 1763990577660,
+    "word": "condition",
+    "pos": "noun",
+    "meaning": "狀況；狀態",
+    "enMeaning": "the particular state that something or someone is in",
+    "example": "Mum's still got our pram - it's very old, but it's in perfect condition.\nThey left the flat in a terrible condition - there was mess everywhere.\nThe hospital say her condition (= state of health) is improving slowly.\nHe's in no condition (= he is too sick or too drunk) to drive home.\nweather conditions",
+    "level": "hard",
+    "nextReview": "2025-11-25",
+    "createdAt": "2025-11-24T13:22:57.660Z",
+    "reviewCount": 1
   }
 ]
