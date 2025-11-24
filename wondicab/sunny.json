@@ -53,11 +53,11 @@
     "pos": "adjective",
     "meaning": "非常嚴重的；劇烈的；慘重的",
     "enMeaning": "causing very great pain, difficulty, worry, damage, etc.; very serious",
-    "example": "a severe chest infection/leg injury/toothache\nThis is a school for children with severe learning difficulties.\nIn parts of Africa there is a severe food/water shortage.\nThere is expected to be a severe frost tonight.\nSevere cutbacks in public spending have been announced.",
+    "example": "a severe chest infection/leg injury/toothache\nThis is a school for children with severe learning difficulties.\nIn parts of Africa there is a severe food/water shortage.\nThere is expected to be a severe frost tonight.\nThe patient's condition is severe.",
     "level": "easy",
-    "nextReview": "2025-11-24",
+    "nextReview": "2025-12-01",
     "createdAt": "2025-11-10T10:35:52.122Z",
-    "reviewCount": 3
+    "reviewCount": 4
   },
   {
     "id": 1762771254457,
@@ -67,9 +67,9 @@
     "enMeaning": "necessary or needed",
     "example": "Government support will be essential if the project is to succeed.\nThere is essential work to be done before the building can be re-occupied.\nWater is essential for/to living things.\nIt is essential (that) our prices remain competitive.\nFor the experiment to be valid, it is essential to record the data accurately.",
     "level": "easy",
-    "nextReview": "2025-11-24",
+    "nextReview": "2025-12-01",
     "createdAt": "2025-11-10T10:40:54.457Z",
-    "reviewCount": 3
+    "reviewCount": 4
   },
   {
     "id": 1762771900178,
@@ -79,9 +79,9 @@
     "enMeaning": "close to a particular number or time although not exactly that number or time",
     "example": "The job will take approximately three weeks, and cost approximately £1,000.",
     "level": "easy",
-    "nextReview": "2025-11-24",
+    "nextReview": "2025-12-01",
     "createdAt": "2025-11-10T10:51:40.178Z",
-    "reviewCount": 3
+    "reviewCount": 4
   },
   {
     "id": 1762772170523,
@@ -307,9 +307,9 @@
     "enMeaning": "to become worse",
     "example": "She was taken into hospital last week when her condition suddenly deteriorated.\nThe political situation in the region has deteriorated rapidly.",
     "level": "hard",
-    "nextReview": "2025-11-24",
+    "nextReview": "2025-11-25",
     "createdAt": "2025-11-19T07:52:08.036Z",
-    "reviewCount": 2
+    "reviewCount": 3
   },
   {
     "id": 1763872726645,
@@ -318,9 +318,9 @@
     "meaning": "（尤指正式地）指示，命令，吩咐",
     "enMeaning": "to order or tell someone to do something, especially in a formal way",
     "example": "The police have been instructed to patrol the building and surrounding area.\nHe works in a sports centre instructing people in the use of the gym equipment.",
-    "level": "hard",
-    "nextReview": "2025-11-24",
+    "level": "medium",
+    "nextReview": "2025-11-27",
     "createdAt": "2025-11-23T04:38:46.645Z",
-    "reviewCount": 1
+    "reviewCount": 2
   }
 ]
