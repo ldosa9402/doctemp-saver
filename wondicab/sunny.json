@@ -30,10 +30,10 @@
     "meaning": "改革;創新",
     "enMeaning": "to introduce changes and new ideas",
     "example": "The fashion industry is always desperate to innovate.",
-    "level": "medium",
-    "nextReview": "2025-11-26",
+    "level": "easy",
+    "nextReview": "2025-12-03",
     "createdAt": "2025-11-09T02:23:09.667Z",
-    "reviewCount": 5
+    "reviewCount": 6
   },
   {
     "id": 1762673907334,
@@ -210,10 +210,10 @@
     "meaning": "實施，貫徹",
     "enMeaning": "to start using a plan or system",
     "example": "The changes to the national health system will be implemented next year.\ngarden/household/agricultural implements\nShopkeepers are not supposed to sell knives and other sharp implements to children.",
-    "level": "medium",
-    "nextReview": "2025-11-26",
+    "level": "hard",
+    "nextReview": "2025-11-27",
     "createdAt": "2025-11-12T15:33:21.479Z",
-    "reviewCount": 5
+    "reviewCount": 6
   },
   {
     "id": 1762961950863,
@@ -246,10 +246,10 @@
     "meaning": "永久的，永恆的;長期的",
     "enMeaning": "continuing for ever in the same way",
     "example": "They lived in perpetual fear of being discovered.\nHe has hard, cold eyes and his mouth is set in a perpetual sneer.\na perpetual student\nperpetual vandalism",
-    "level": "medium",
-    "nextReview": "2025-11-26",
+    "level": "easy",
+    "nextReview": "2025-12-03",
     "createdAt": "2025-11-13T03:13:53.483Z",
-    "reviewCount": 5
+    "reviewCount": 6
   },
   {
     "id": 1763003677925,
@@ -258,10 +258,10 @@
     "meaning": "（人）愛交際的，不喜獨處的",
     "enMeaning": "(of people) liking to be with other people",
     "example": "Emma's a gregarious, outgoing sort of person.",
-    "level": "medium",
-    "nextReview": "2025-11-26",
+    "level": "easy",
+    "nextReview": "2025-12-03",
     "createdAt": "2025-11-13T03:14:37.925Z",
-    "reviewCount": 5
+    "reviewCount": 6
   },
   {
     "id": 1763109995175,
@@ -294,10 +294,10 @@
     "meaning": "（人或物）無處不在，普遍存在",
     "enMeaning": "the fact that something or someone seems to be everywhere",
     "example": "the ubiquity of fast-food outlets",
-    "level": "medium",
-    "nextReview": "2025-11-26",
+    "level": "easy",
+    "nextReview": "2025-12-03",
     "createdAt": "2025-11-19T06:46:43.086Z",
-    "reviewCount": 2
+    "reviewCount": 3
   },
   {
     "id": 1763538728036,
@@ -367,9 +367,9 @@
     "enMeaning": "full of activity, or very busy and fast",
     "example": "a hectic schedule\nThe area has become a haven for people tired of the hectic pace of city life.",
     "level": "hard",
-    "nextReview": "2025-11-26",
+    "nextReview": "2025-11-27",
     "createdAt": "2025-11-24T13:31:43.877Z",
-    "reviewCount": 2
+    "reviewCount": 3
   },
   {
     "id": 1763991286149,
@@ -391,9 +391,9 @@
     "enMeaning": "having no doubt or knowing exactly that something is true, or known to be true, correct, exact, or effective",
     "example": "Are you absolutely certain (that) you gave them the right number?\nI feel certain (that) you're doing the right thing.\nYou should make certain (that) everyone understands the instructions.\nThe police seem certain (that) they will find the people responsible for the attack.\nI'm not certain how much it will cost.",
     "level": "hard",
-    "nextReview": "2025-11-26",
+    "nextReview": "2025-11-27",
     "createdAt": "2025-11-25T06:21:31.026Z",
-    "reviewCount": 1
+    "reviewCount": 2
   },
   {
     "id": 1764051802414,
@@ -402,9 +402,9 @@
     "meaning": "選舉",
     "enMeaning": "a time when people vote in order to choose someone for a political or official job",
     "example": "The government is expected to call an election (= allow the country to vote) very soon.\nLocal government elections will take place in May.\nThe first election results have started to come in.",
-    "level": "hard",
-    "nextReview": "2025-11-26",
+    "level": "easy",
+    "nextReview": "2025-12-03",
     "createdAt": "2025-11-25T06:23:22.414Z",
-    "reviewCount": 1
+    "reviewCount": 2
   }
 ]
