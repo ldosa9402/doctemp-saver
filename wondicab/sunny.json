@@ -406,5 +406,17 @@
     "nextReview": "2025-12-03",
     "createdAt": "2025-11-25T06:23:22.414Z",
     "reviewCount": 2
+  },
+  {
+    "id": 1764393759225,
+    "word": "dominate",
+    "pos": "verb",
+    "meaning": "統治；控制",
+    "enMeaning": "to have control over a place or person",
+    "example": "He refuses to let others speak and dominates every meeting.\nThey work as a group - no one person is allowed to dominate.\nThe cathedral dominates the landscape for miles around.\nThe dispute is likely to dominate the news.",
+    "level": "new",
+    "nextReview": "2025-11-29",
+    "createdAt": "2025-11-29T05:22:39.225Z",
+    "reviewCount": 0
   }
 ]
