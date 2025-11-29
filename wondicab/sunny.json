@@ -210,10 +210,10 @@
     "meaning": "實施，貫徹",
     "enMeaning": "to start using a plan or system",
     "example": "The changes to the national health system will be implemented next year.\ngarden/household/agricultural implements\nShopkeepers are not supposed to sell knives and other sharp implements to children.",
-    "level": "hard",
-    "nextReview": "2025-11-27",
+    "level": "easy",
+    "nextReview": "2025-12-06",
     "createdAt": "2025-11-12T15:33:21.479Z",
-    "reviewCount": 6
+    "reviewCount": 7
   },
   {
     "id": 1762961950863,
@@ -234,10 +234,10 @@
     "meaning": "無法躲避的，無法避免的",
     "enMeaning": "impossible to avoid",
     "example": "his ineluctable fate",
-    "level": "medium",
-    "nextReview": "2025-11-28",
+    "level": "easy",
+    "nextReview": "2025-12-06",
     "createdAt": "2025-11-13T03:08:45.807Z",
-    "reviewCount": 5
+    "reviewCount": 6
   },
   {
     "id": 1763003633483,
@@ -306,10 +306,10 @@
     "meaning": "惡化，變壞",
     "enMeaning": "to become worse",
     "example": "She was taken into hospital last week when her condition suddenly deteriorated.\nThe political situation in the region has deteriorated rapidly.",
-    "level": "medium",
-    "nextReview": "2025-11-28",
+    "level": "hard",
+    "nextReview": "2025-11-30",
     "createdAt": "2025-11-19T07:52:08.036Z",
-    "reviewCount": 4
+    "reviewCount": 5
   },
   {
     "id": 1763872726645,
@@ -318,10 +318,10 @@
     "meaning": "（尤指正式地）指示，命令，吩咐",
     "enMeaning": "to order or tell someone to do something, especially in a formal way",
     "example": "The police have been instructed to patrol the building and surrounding area.\nHe works in a sports centre instructing people in the use of the gym equipment.",
-    "level": "medium",
-    "nextReview": "2025-11-27",
+    "level": "easy",
+    "nextReview": "2025-12-06",
     "createdAt": "2025-11-23T04:38:46.645Z",
-    "reviewCount": 2
+    "reviewCount": 3
   },
   {
     "id": 1763990452939,
@@ -367,9 +367,9 @@
     "enMeaning": "full of activity, or very busy and fast",
     "example": "a hectic schedule\nThe area has become a haven for people tired of the hectic pace of city life.",
     "level": "hard",
-    "nextReview": "2025-11-27",
+    "nextReview": "2025-11-30",
     "createdAt": "2025-11-24T13:31:43.877Z",
-    "reviewCount": 3
+    "reviewCount": 4
   },
   {
     "id": 1763991286149,
@@ -390,10 +390,10 @@
     "meaning": "肯定的，無疑的；有把握的；確定的",
     "enMeaning": "having no doubt or knowing exactly that something is true, or known to be true, correct, exact, or effective",
     "example": "Are you absolutely certain (that) you gave them the right number?\nI feel certain (that) you're doing the right thing.\nYou should make certain (that) everyone understands the instructions.\nThe police seem certain (that) they will find the people responsible for the attack.\nI'm not certain how much it will cost.",
-    "level": "hard",
-    "nextReview": "2025-11-27",
+    "level": "easy",
+    "nextReview": "2025-12-06",
     "createdAt": "2025-11-25T06:21:31.026Z",
-    "reviewCount": 2
+    "reviewCount": 3
   },
   {
     "id": 1764051802414,
@@ -414,9 +414,21 @@
     "meaning": "統治；控制",
     "enMeaning": "to have control over a place or person",
     "example": "He refuses to let others speak and dominates every meeting.\nThey work as a group - no one person is allowed to dominate.\nThe cathedral dominates the landscape for miles around.\nThe dispute is likely to dominate the news.",
-    "level": "new",
-    "nextReview": "2025-11-29",
+    "level": "medium",
+    "nextReview": "2025-12-02",
     "createdAt": "2025-11-29T05:22:39.225Z",
-    "reviewCount": 0
+    "reviewCount": 1
+  },
+  {
+    "id": 1764428730436,
+    "word": "reputation",
+    "pos": "noun",
+    "meaning": "名譽;聲望;名望",
+    "enMeaning": "the opinion that people in general have about someone or something, or how much respect or admiration someone or something receives, based on past behaviour or character",
+    "example": "The company has a worldwide reputation for quality.\nShe has the reputation of being a good doctor.\nHis reputation was destroyed when he was caught stealing some money.\nThe hotel has a bad/good reputation.\nHe earned/established/gained/acquired a reputation as an entertaining speaker.",
+    "level": "hard",
+    "nextReview": "2025-11-30",
+    "createdAt": "2025-11-29T15:05:30.437Z",
+    "reviewCount": 1
   }
 ]
