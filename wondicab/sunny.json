@@ -55,9 +55,9 @@
     "enMeaning": "causing very great pain, difficulty, worry, damage, etc.; very serious",
     "example": "a severe chest infection/leg injury/toothache\nThis is a school for children with severe learning difficulties.\nIn parts of Africa there is a severe food/water shortage.\nThere is expected to be a severe frost tonight.\nThe patient's condition is severe.",
     "level": "easy",
-    "nextReview": "2025-12-01",
+    "nextReview": "2025-12-08",
     "createdAt": "2025-11-10T10:35:52.122Z",
-    "reviewCount": 4
+    "reviewCount": 5
   },
   {
     "id": 1762771254457,
@@ -67,9 +67,9 @@
     "enMeaning": "necessary or needed",
     "example": "Government support will be essential if the project is to succeed.\nThere is essential work to be done before the building can be re-occupied.\nWater is essential for/to living things.\nIt is essential (that) our prices remain competitive.\nFor the experiment to be valid, it is essential to record the data accurately.",
     "level": "easy",
-    "nextReview": "2025-12-01",
+    "nextReview": "2025-12-08",
     "createdAt": "2025-11-10T10:40:54.457Z",
-    "reviewCount": 4
+    "reviewCount": 5
   },
   {
     "id": 1762771900178,
@@ -79,9 +79,9 @@
     "enMeaning": "close to a particular number or time although not exactly that number or time",
     "example": "The job will take approximately three weeks, and cost approximately £1,000.",
     "level": "easy",
-    "nextReview": "2025-12-01",
+    "nextReview": "2025-12-08",
     "createdAt": "2025-11-10T10:51:40.178Z",
-    "reviewCount": 4
+    "reviewCount": 5
   },
   {
     "id": 1762772170523,
@@ -426,9 +426,9 @@
     "meaning": "名譽;聲望;名望",
     "enMeaning": "the opinion that people in general have about someone or something, or how much respect or admiration someone or something receives, based on past behaviour or character",
     "example": "The company has a worldwide reputation for quality.\nShe has the reputation of being a good doctor.\nHis reputation was destroyed when he was caught stealing some money.\nThe hotel has a bad/good reputation.\nHe earned/established/gained/acquired a reputation as an entertaining speaker.",
-    "level": "hard",
-    "nextReview": "2025-12-01",
+    "level": "medium",
+    "nextReview": "2025-12-04",
     "createdAt": "2025-11-29T15:05:30.437Z",
-    "reviewCount": 2
+    "reviewCount": 3
   }
 ]
