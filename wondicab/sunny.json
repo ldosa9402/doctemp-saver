@@ -31,9 +31,9 @@
     "enMeaning": "to introduce changes and new ideas",
     "example": "The fashion industry is always desperate to innovate.",
     "level": "easy",
-    "nextReview": "2025-12-03",
+    "nextReview": "2025-12-11",
     "createdAt": "2025-11-09T02:23:09.667Z",
-    "reviewCount": 6
+    "reviewCount": 7
   },
   {
     "id": 1762673907334,
@@ -247,9 +247,9 @@
     "enMeaning": "continuing for ever in the same way",
     "example": "They lived in perpetual fear of being discovered.\nHe has hard, cold eyes and his mouth is set in a perpetual sneer.\na perpetual student\nperpetual vandalism",
     "level": "easy",
-    "nextReview": "2025-12-03",
+    "nextReview": "2025-12-11",
     "createdAt": "2025-11-13T03:13:53.483Z",
-    "reviewCount": 6
+    "reviewCount": 7
   },
   {
     "id": 1763003677925,
@@ -259,9 +259,9 @@
     "enMeaning": "(of people) liking to be with other people",
     "example": "Emma's a gregarious, outgoing sort of person.",
     "level": "easy",
-    "nextReview": "2025-12-03",
+    "nextReview": "2025-12-11",
     "createdAt": "2025-11-13T03:14:37.925Z",
-    "reviewCount": 6
+    "reviewCount": 7
   },
   {
     "id": 1763109995175,
@@ -295,9 +295,9 @@
     "enMeaning": "the fact that something or someone seems to be everywhere",
     "example": "the ubiquity of fast-food outlets",
     "level": "easy",
-    "nextReview": "2025-12-03",
+    "nextReview": "2025-12-11",
     "createdAt": "2025-11-19T06:46:43.086Z",
-    "reviewCount": 3
+    "reviewCount": 4
   },
   {
     "id": 1763538728036,
@@ -306,10 +306,10 @@
     "meaning": "惡化，變壞",
     "enMeaning": "to become worse",
     "example": "She was taken into hospital last week when her condition suddenly deteriorated.\nThe political situation in the region has deteriorated rapidly.",
-    "level": "medium",
-    "nextReview": "2025-12-03",
+    "level": "easy",
+    "nextReview": "2025-12-11",
     "createdAt": "2025-11-19T07:52:08.036Z",
-    "reviewCount": 6
+    "reviewCount": 7
   },
   {
     "id": 1763872726645,
@@ -366,10 +366,10 @@
     "meaning": "繁忙的，忙碌的",
     "enMeaning": "full of activity, or very busy and fast",
     "example": "a hectic schedule\nThe area has become a haven for people tired of the hectic pace of city life.",
-    "level": "medium",
-    "nextReview": "2025-12-03",
+    "level": "easy",
+    "nextReview": "2025-12-11",
     "createdAt": "2025-11-24T13:31:43.877Z",
-    "reviewCount": 5
+    "reviewCount": 6
   },
   {
     "id": 1763991286149,
@@ -403,9 +403,9 @@
     "enMeaning": "a time when people vote in order to choose someone for a political or official job",
     "example": "The government is expected to call an election (= allow the country to vote) very soon.\nLocal government elections will take place in May.\nThe first election results have started to come in.",
     "level": "easy",
-    "nextReview": "2025-12-03",
+    "nextReview": "2025-12-11",
     "createdAt": "2025-11-25T06:23:22.414Z",
-    "reviewCount": 2
+    "reviewCount": 3
   },
   {
     "id": 1764393759225,
@@ -430,5 +430,29 @@
     "nextReview": "2025-12-09",
     "createdAt": "2025-11-29T15:05:30.437Z",
     "reviewCount": 3
+  },
+  {
+    "id": 1764809690841,
+    "word": "treadmill",
+    "pos": "noun",
+    "meaning": "繁重無聊的重複性工作",
+    "enMeaning": "any type of repeated work that is boring and makes you feel tired and seems to have no positive effect and no end",
+    "example": "There were days when having kids seemed like an endless treadmill of feeding, washing, and nappy-changing.",
+    "level": "easy",
+    "nextReview": "2025-12-11",
+    "createdAt": "2025-12-04T00:54:50.841Z",
+    "reviewCount": 1
+  },
+  {
+    "id": 1764809981747,
+    "word": "potent",
+    "pos": "adjective",
+    "meaning": "強有力的，強大的；有效力的",
+    "enMeaning": "very powerful, forceful, or effective",
+    "example": "Surprise remains the terrorists' most potent weapon.\nThe Berlin Wall was a potent symbol of the Cold War.\nThis is a very potent drug and can have unpleasant side-effects.",
+    "level": "hard",
+    "nextReview": "2025-12-05",
+    "createdAt": "2025-12-04T00:59:41.747Z",
+    "reviewCount": 1
   }
 ]
