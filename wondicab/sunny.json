@@ -199,9 +199,9 @@
     "enMeaning": "the fact of operating or being active",
     "example": "There are several reactors of the type in operation (= working) at the moment.\nWe expect the new system for assessing claims to come into operation (= start working) early next year.\nLess profitable business operations will have difficulty in finding financial support.\na military/peacekeeping operation.\nFollowing the earthquake, a large-scale rescue operation was launched.",
     "level": "medium",
-    "nextReview": "2025-12-05",
+    "nextReview": "2025-12-08",
     "createdAt": "2025-11-12T15:25:17.431Z",
-    "reviewCount": 7
+    "reviewCount": 8
   },
   {
     "id": 1762961601478,
@@ -451,8 +451,80 @@
     "enMeaning": "very powerful, forceful, or effective",
     "example": "Surprise remains the terrorists' most potent weapon.\nThe Berlin Wall was a potent symbol of the Cold War.\nThis is a very potent drug and can have unpleasant side-effects.",
     "level": "hard",
-    "nextReview": "2025-12-05",
+    "nextReview": "2025-12-06",
     "createdAt": "2025-12-04T00:59:41.747Z",
+    "reviewCount": 2
+  },
+  {
+    "id": 1764898884562,
+    "word": "isolated",
+    "pos": "adjective",
+    "meaning": "偏遠的",
+    "enMeaning": "not near to other places",
+    "example": "an isolated farm/village\nThere were only a few isolated cases of violent behaviour.\nWorking at home was making her feel increasingly isolated.",
+    "level": "hard",
+    "nextReview": "2025-12-06",
+    "createdAt": "2025-12-05T01:41:24.562Z",
+    "reviewCount": 1
+  },
+  {
+    "id": 1764899085181,
+    "word": "established",
+    "pos": "adjective",
+    "meaning": "（因長期存在而）已確立的;被承認的;既定的",
+    "enMeaning": "accepted or respected because of having existed for a long period of time",
+    "example": "There are established procedures for dealing with emergencies.\nan established firm/brand\nan established artist/star\nThe band doesn't make much money - it's just getting established.\nAs the plants get established, they will need frequent watering.",
+    "level": "hard",
+    "nextReview": "2025-12-06",
+    "createdAt": "2025-12-05T01:44:45.181Z",
+    "reviewCount": 1
+  },
+  {
+    "id": 1764900745897,
+    "word": "dependence",
+    "pos": "noun",
+    "meaning": "依賴，依靠",
+    "enMeaning": "the situation in which you need something or someone all the time, especially in order to continue existing or operating",
+    "example": "The company needs to reduce its dependence on just one particular product.\nDrug dependence led to her early death.\nShe has developed a deep dependence on him (= she needs him emotionally).",
+    "level": "hard",
+    "nextReview": "2025-12-06",
+    "createdAt": "2025-12-05T02:12:25.897Z",
+    "reviewCount": 1
+  },
+  {
+    "id": 1764900937404,
+    "word": "culprit",
+    "pos": "noun",
+    "meaning": "過失者；責任人 / 問題的起因；罪魁禍首",
+    "enMeaning": "someone who has done something wrong / a fact or situation that is the reason for something bad happening",
+    "example": "Police hope the public will help them to find the culprits.\nChildren in this country are getting much too fat, and sugar and sweets are the main culprits.",
+    "level": "hard",
+    "nextReview": "2025-12-06",
+    "createdAt": "2025-12-05T02:15:37.404Z",
+    "reviewCount": 1
+  },
+  {
+    "id": 1764901088577,
+    "word": "associated",
+    "pos": "adjective",
+    "meaning": "有關聯的；相關的",
+    "enMeaning": "connected",
+    "example": "She was prepared to take on the job, with all its associated risks.",
+    "level": "hard",
+    "nextReview": "2025-12-06",
+    "createdAt": "2025-12-05T02:18:08.577Z",
+    "reviewCount": 1
+  },
+  {
+    "id": 1764901286295,
+    "word": "perhaps",
+    "pos": "adverb",
+    "meaning": "或許，可能",
+    "enMeaning": "used to show that something is possible or that you are not certain about something",
+    "example": "He hasn't written to me recently - perhaps he's lost my address.\nPerhaps the most important question has not been asked.\nWe plan to travel to Europe - to Spain or Italy perhaps.\nThere were perhaps 500 people at the meeting.\n\"I never remember people's birthdays.\" \"Well, perhaps you should.\"",
+    "level": "hard",
+    "nextReview": "2025-12-06",
+    "createdAt": "2025-12-05T02:21:26.295Z",
     "reviewCount": 1
   }
 ]
